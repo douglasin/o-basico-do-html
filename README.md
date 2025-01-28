@@ -106,9 +106,6 @@ footer {
 ---
 
 ### Como Usar:
-1. Crie um novo repositório no GitHub chamado `estudo-dirigido<nome-dos-temas>-HTML-CSS`.
+1. Crie um novo repositório no GitHub chamado `estudo-dirigido<nome-dos-temas>`.
 2. Dentro do repositório, crie os arquivos e pastas mencionados na estrutura (`nome-do-tema-01.html`,`nome-do-tema-02.html`, `styles.css`, `images/`, etc.).
-3. Cole o conteúdo acima no arquivo `README.md`.
-4. Compartilhe o link do repositório com seus alunos e oriente-os a clonar e seguir as instruções.
 
-Se precisar de mais ajustes ou ajuda, é só avisar! 😊
