@@ -3,7 +3,7 @@ Aqui você encontrará um suporte para aprender o básico de HTML
 Estrutura de Pastas:
 
 Blog-Simples-HTML-CSS/
-├── styles.css          # Arquivo de estilos CSS
+├── styles.css          # Arquivo de estilos CSS**
 ├── images/             # Pasta para armazenar imagens
 ├── post.html           # Exemplo de página de postagem
 └── README.md           # Instruções 
