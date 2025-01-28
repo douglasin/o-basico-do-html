@@ -59,3 +59,45 @@ Exemplo de código HTML:
     </footer>
 </body>
 </html>
+```
+2. CSS Básico
+O CSS (Cascading Style Sheets) é usado para estilizar a página. Aqui estão alguns conceitos básicos:
+
+Seletores: Usamos seletores para aplicar estilos a elementos HTML.
+
+Propriedades: Definimos propriedades como color, font-size, margin, etc.
+```
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+article {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+```
