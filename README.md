@@ -2,11 +2,12 @@
 Aqui você encontrará um suporte para aprender o básico de HTML
 Estrutura de Pastas:
 
-Blog-Simples-HTML-CSS/
-├── styles.css          # Arquivo de estilos CSS**
+```Blog-Simples-HTML-CSS/
+├── styles.css          # Arquivo de estilos CSS
 ├── images/             # Pasta para armazenar imagens
 ├── post.html           # Exemplo de página de postagem
-└── README.md           # Instruções 
+└── README.md           # Instruções
+```
 # Blog Simples com HTML e CSS
 
 Este projeto é um exemplo básico de um blog estático criado com HTML e CSS. Ele foi desenvolvido para ajudar iniciantes a entender os conceitos fundamentais de estruturação de páginas web e estilização.
@@ -57,4 +58,4 @@ Exemplo de código HTML:
         <p>&copy; 2023 Meu Blog</p>
     </footer>
 </body>
-</html>´´´
+</html>
