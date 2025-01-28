@@ -5,7 +5,8 @@ Estrutura de Pastas:
 ```Blog-Simples-HTML-CSS/
 ├── styles.css          # Arquivo de estilos CSS
 ├── images/             # Pasta para armazenar imagens
-├── post.html           # Exemplo de página de postagem
+├── nome-do-tema-01.html           # Exemplo de página de postagem
+├── nome-do-tema-02.html           # Exemplo de página de postagem
 └── README.md           # Instruções
 ```
 # Blog Simples com HTML e CSS
@@ -101,3 +102,13 @@ footer {
     color: #fff;
 }
 ```
+
+---
+
+### Como Usar:
+1. Crie um novo repositório no GitHub chamado `estudo-dirigido<nome-dos-temas>-HTML-CSS`.
+2. Dentro do repositório, crie os arquivos e pastas mencionados na estrutura (`nome-do-tema-01.html`,`nome-do-tema-02.html`, `styles.css`, `images/`, etc.).
+3. Cole o conteúdo acima no arquivo `README.md`.
+4. Compartilhe o link do repositório com seus alunos e oriente-os a clonar e seguir as instruções.
+
+Se precisar de mais ajustes ou ajuda, é só avisar! 😊
