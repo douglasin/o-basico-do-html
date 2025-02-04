@@ -3,7 +3,7 @@ Aqui você encontrará um suporte para aprender o básico de HTML
 Estrutura de Pastas:
 
 ```Blog-Simples-HTML-CSS/
-├── styles.css          # Arquivo de estilos CSS
+├── styles.css          # Arquivo de estilos CSShttps://github.com/douglasin/o-basico-do-html/blob/main/README.md
 ├── images/             # Pasta para armazenar imagens
 ├── nome-do-tema-01.html           # Exemplo de página de postagem
 ├── nome-do-tema-02.html           # Exemplo de página de postagem
